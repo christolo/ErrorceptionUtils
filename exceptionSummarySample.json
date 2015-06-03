@@ -1,0 +1,67 @@
+[ { "browsers" : [ "Firefox 37",
+        "Firefox 38",
+        "Firefox 36",
+        "Firefox 16"
+      ],
+    "examplePage" : "http://www.somedomain.com/online-backup/free-trial?catid=200247&mkwid=JVSTo4fn|dc&adnumber=4920225838&cm_mmc=ppc-_-bing-_-4920225838-_-JVSTo4fn&c3apimn=JVSTo4fn&pkw=somedomain&pmt=e",
+    "isInline" : false,
+    "line" : 1,
+    "links" : [ { "href" : "https://api.errorception.com/projects/55555555555555555555555/errors/554a093982151582d4112230",
+          "rel" : "details"
+        },
+        { "href" : "https://api.errorception.com/projects/55555555555555555555555/errors/554a093982151582d4112230/occurrences",
+          "rel" : "occurrences"
+        }
+      ],
+    "message" : "Error: The call to createUser was successful. But there was an error returned from the call. Here is the response: {\"FirstNameMess\":\"\",\"LastNameMess\":\"\",\"CompanyNameMess\":\"\",\"PhoneMess\":\"\",\"urlMess\":\"\",\"OfferCodeMess\":\"\",\"PasswordMess\":\"\",\"ConfirmPasswordMess\":\"\",\"EmailMess\":\"Email is invalid\",\"ConfirmEmailMess\":\"\",\"POSANumberMess\":\"\",\"ActivationCodeMess\":\"\",\"PartnerMess\":null,\"isError\":true,\"RedirectUrl\":\"\",\"Message\":\"\",\"IsBusniess\":false,\"isLoggedIn\":false,\"TermsAndConditionsMess\":\"\"}",
+    "mostRecentDate" : "2015-05-20T19:55:08.937Z",
+    "numPages" : 6,
+    "occurrenceCount" : 47,
+    "occurrencesThisWeek" : [ 2,
+        1,
+        0,
+        4,
+        1,
+        17,
+        7
+      ],
+    "scriptPath" : "http://www.somedomain.com/bundles/trial?v=20150504055103",
+    "status" : "open",
+    "when" : "after"
+  },
+  { "browsers" : [ "Firefox 37",
+        "Firefox 36",
+        "Firefox 18",
+        "Firefox 8",
+        "Firefox 35",
+        "Firefox 38",
+        "Firefox 30",
+        "Firefox 29"
+      ],
+    "examplePage" : "http://www.somedomain.com/online-backup/free-trial",
+    "isInline" : false,
+    "line" : 1,
+    "links" : [ { "href" : "https://api.errorception.com/projects/55555555555555555555555/errors/5548e22182151582d410b665",
+          "rel" : "details"
+        },
+        { "href" : "https://api.errorception.com/projects/55555555555555555555555/errors/5548e22182151582d410b665/occurrences",
+          "rel" : "occurrences"
+        }
+      ],
+    "message" : "Error: The call to createUser was successful. But there was an error returned from the call. Here is the response: {\"FirstNameMess\":\"\",\"LastNameMess\":\"\",\"CompanyNameMess\":\"\",\"PhoneMess\":\"\",\"urlMess\":\"\",\"OfferCodeMess\":\"\",\"PasswordMess\":\"Password and Confirm Password do not match\",\"ConfirmPasswordMess\":\"\",\"EmailMess\":\"\",\"ConfirmEmailMess\":\"\",\"POSANumberMess\":\"\",\"ActivationCodeMess\":\"\",\"PartnerMess\":null,\"isError\":true,\"RedirectUrl\":\"\",\"Message\":\"\",\"IsBusniess\":false,\"isLoggedIn\":false,\"TermsAndConditionsMess\":\"\"}",
+    "mostRecentDate" : "2015-05-20T19:53:41.311Z",
+    "numPages" : 6,
+    "occurrenceCount" : 38,
+    "occurrencesThisWeek" : [ 2,
+        1,
+        1,
+        0,
+        5,
+        3,
+        4
+      ],
+    "scriptPath" : "http://www.somedomain.com/bundles/trial?v=20150504055103",
+    "status" : "open",
+    "when" : "after"
+  }
+]
